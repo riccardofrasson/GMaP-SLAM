@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+gtsam>=4.2.0
+opencv-python>=4.8.0
+scipy>=1.10.0
+numpy>=1.23.0
+matplotlib>=3.7.0
+pyproj>=3.5.0
+pandas>=2.0.0
+causal-conv1d>=1.1.0
+mamba-ssm>=1.1.0
+timm
+open3d
